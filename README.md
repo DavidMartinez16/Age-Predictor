@@ -2,7 +2,7 @@
 
 Age predictor using transfer learning
 
-# acknowledgement
+# Acknowledgement
 
-* https://github.com/laxmimerit/Image-Dataset-for-Age-Prediction
+https://github.com/laxmimerit/Image-Dataset-for-Age-Prediction
 
