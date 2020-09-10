@@ -10,7 +10,7 @@ Age predictor using transfer learning
 ## Real Age: 31 | Predicted Age: 28
 ![age2](https://user-images.githubusercontent.com/63115543/92817838-a35d6780-f38c-11ea-9ace-26f3242c2cdb.jpg)
 
-# Trying with my a photo of myself
+# Trying with my photo
 ## Real Age: 21 | Predicted Age: 20
 ![age3](https://user-images.githubusercontent.com/63115543/92817902-b5d7a100-f38c-11ea-9b47-322bd5f4f196.jpg)
 
